@@ -13,7 +13,7 @@ class NewsScreen extends StatelessWidget {
         centerTitle: true,
         toolbarHeight: 100,
         title: Text(
-          '191011402689 Ridho Firman Hakim',
+          '191011401044 Muhammad Iksan Iskandar',
           style: TextStyle(color: Colors.black),
         ),
       ),
